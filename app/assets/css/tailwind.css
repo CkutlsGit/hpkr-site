@@ -4,6 +4,15 @@
 @tailwind components;
 @tailwind utilities;
 
-h1 {
+:root {
+    --main-black: #0d0d11;
+    --main-white: #fff;
+    --bg-buttons: #6563ee;
+    --sub-text: #8f8f94;
+    --border: #ffffff0d;
+}
+
+body {
     font-family: 'Segoe UI', sans-serif;
+    background: var(--main-black);
 }
