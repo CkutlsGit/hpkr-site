@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div class="text-center">
-    <h1 class="text-6xl text-blue-300">test</h1>
-  </div>
+  <h2>12312</h2>
 </template>
 
 <style scoped>
