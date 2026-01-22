@@ -5,9 +5,9 @@
 <template>
   <header class="header">
     <nav class="header__content">
-      <div class="header__logo">
-        <img src="../../assets/img/icon-cube.svg" alt="Иконка сервера">
-        <h2>Во все кубики</h2>
+      <div class="header__logo flex items-center justify-center gap-2">
+        <img class="w-10" src="../../assets/img/icon-cube.svg" alt="Иконка сервера">
+        <h2 class="font-bold">Во все кубики</h2>
       </div>
     </nav>
   </header>
